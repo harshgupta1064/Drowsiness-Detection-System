@@ -37,27 +37,13 @@ This repository focuses on illustrating the full development process, including 
 
 ## Installation
 
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/tyrerodr/Real_time_drowsy_driving_detection.git
-    cd Real_time_drowsy_driving_detection
-    ```
+1. **Clone the repository**
 
-2. **Create a virtual environment:**
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
+2. **Create a virtual environment**
 
 3. **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 4. **Run the detection system:**
-    ```bash
-    python DrowsinessDetector.py
-    ```
 
 ---
 
