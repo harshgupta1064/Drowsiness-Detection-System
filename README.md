@@ -41,9 +41,9 @@ This repository focuses on illustrating the full development process, including 
 
 2. **Create a virtual environment**
 
-3. **Install dependencies:**
+3. **Install dependencies**
 
-4. **Run the detection system:**
+4. **Run the detection system**
 
 ---
 
@@ -87,18 +87,7 @@ Once trained, the models' predictions are combined with confidence thresholds an
 - **TensorFlow / Keras** – Model training.
 - **PyQt5** – Graphical user interface.
 
----
 
-## Important Note
-
-This repository is intended primarily to showcase the development process of a drowsiness detection system — including data collection, model training, and real-time integration.
-
-The uploaded model weights are **preliminary** and **not fully trained to convergence**.  
-They are mainly for demonstration purposes, and final production-ready models are maintained separately.
-
-We appreciate any feedback and contributions to improve the system.
-
----
 
 ## Future Improvements
 
@@ -108,7 +97,3 @@ We appreciate any feedback and contributions to improve the system.
 
 ---
 
-**Eng. Tyrone Eduardo Rodriguez Motato**  
-Computer Vision Engineer  
-Guayaquil, Ecuador  
-Email: tyrerodr@hotmail.com
